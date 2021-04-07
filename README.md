@@ -1,4 +1,4 @@
-# magalu
+# Automação Web
 
 Teste automatizado Web utilizando Java com Selenium e Junit. A automação Realiza um fluxo em um portal de comercio online, onde seleciona um produto e valida se o produto foi adicionado ao carrinho.
 
